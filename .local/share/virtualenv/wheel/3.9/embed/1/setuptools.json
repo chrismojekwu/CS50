@@ -1,0 +1,47 @@
+{
+  "completed": "2021-01-19T17:11:06.203944Z",
+  "periodic": true,
+  "started": "2021-01-19T17:09:37.051649Z",
+  "versions": [
+    {
+      "filename": "setuptools-51.3.3-py3-none-any.whl",
+      "found_date": "2021-01-19T17:09:38.727319Z",
+      "release_date": "2021-01-17T22:44:39.000000Z"
+    },
+    {
+      "filename": "setuptools-51.3.2-py3-none-any.whl",
+      "found_date": "2021-01-19T17:10:00.773030Z",
+      "release_date": "2021-01-17T19:21:32.000000Z"
+    },
+    {
+      "filename": "setuptools-51.3.1-py3-none-any.whl",
+      "found_date": "2021-01-19T17:10:12.218165Z",
+      "release_date": "2021-01-17T03:15:21.000000Z"
+    },
+    {
+      "filename": "setuptools-51.3.0-py3-none-any.whl",
+      "found_date": "2021-01-19T17:10:22.533399Z",
+      "release_date": "2021-01-17T01:40:03.000000Z"
+    },
+    {
+      "filename": "setuptools-51.2.0-py3-none-any.whl",
+      "found_date": "2021-01-19T17:10:33.253381Z",
+      "release_date": "2021-01-16T22:37:53.000000Z"
+    },
+    {
+      "filename": "setuptools-51.1.2-py3-none-any.whl",
+      "found_date": "2021-01-19T17:10:41.938944Z",
+      "release_date": "2021-01-09T02:03:18.000000Z"
+    },
+    {
+      "filename": "setuptools-51.1.1-py3-none-any.whl",
+      "found_date": "2021-01-19T17:10:53.625403Z",
+      "release_date": "2020-12-29T03:56:43.000000Z"
+    },
+    {
+      "filename": "setuptools-51.1.0-py3-none-any.whl",
+      "found_date": "2021-01-19T17:11:00.948647Z",
+      "release_date": "2020-12-21T18:40:04.000000Z"
+    }
+  ]
+}
